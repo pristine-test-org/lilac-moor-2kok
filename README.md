@@ -1,21 +1,16 @@
 # Lilac Moor: Monorepo · Vercel (protected)
 
-> **This is a template, not a repository.** Copy it out and prepare it before an eval (steps below).
-> Nothing here is deployed.
-
 A monorepo with three apps on **Vercel**, with preview links **behind Vercel's login (Standard Protection)**. Static Vite +
 TypeScript, no framework. The page reads a live list from the shared Supabase test project.
 Row in the support matrix: impeccable-reviews#302.
 
 ## Deployment links
 
-Filled in at prep time.
-
 | App | Folder | Production | Preview gate |
 |---|---|---|---|
-| _app one_ | `apps/<app>` | _not deployed_ | yes |
-| _app two_ | `apps/<app>` | _not deployed_ | yes |
-| _app three_ | `apps/<app>` | _not deployed_ | yes |
+| Mallow | `apps/mallow-rvp` | https://lilac-moor-2kok-mallow-rvp.vercel.app | yes |
+| Dahlia | `apps/dahlia-91s` | https://lilac-moor-2kok-dahlia-91s.vercel.app | yes |
+| Ginkgo | `apps/ginkgo-vg4` | https://lilac-moor-2kok-ginkgo-vg4.vercel.app | yes |
 
 ## Names
 
